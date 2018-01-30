@@ -1,10 +1,7 @@
 test push
-
+S
 test 2222 a
 
-test 33\
-
-test four
-
+test 33 foroa
 
 test five
